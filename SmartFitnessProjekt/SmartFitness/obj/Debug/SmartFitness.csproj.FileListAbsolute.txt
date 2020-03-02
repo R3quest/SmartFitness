@@ -1,0 +1,273 @@
+C:\Users\root\source\repos\SmartFitness\SmartFitness\bin\Debug\SmartFitness.exe.config
+C:\Users\root\source\repos\SmartFitness\SmartFitness\bin\Debug\SmartFitness.exe
+C:\Users\root\source\repos\SmartFitness\SmartFitness\bin\Debug\SmartFitness.pdb
+C:\Users\root\source\repos\SmartFitness\SmartFitness\obj\Debug\SmartFitness.csprojResolveAssemblyReference.cache
+C:\Users\root\source\repos\SmartFitness\SmartFitness\obj\Debug\SmartFitness.Form1.resources
+C:\Users\root\source\repos\SmartFitness\SmartFitness\obj\Debug\SmartFitness.Properties.Resources.resources
+C:\Users\root\source\repos\SmartFitness\SmartFitness\obj\Debug\SmartFitness.csproj.GenerateResource.cache
+C:\Users\root\source\repos\SmartFitness\SmartFitness\obj\Debug\SmartFitness.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\SmartFitness\SmartFitness\obj\Debug\SmartFitness.exe
+C:\Users\root\source\repos\SmartFitness\SmartFitness\obj\Debug\SmartFitness.pdb
+C:\Users\root\source\repos\SmartFitness\SmartFitness\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\root\source\repos\SmartFitness\SmartFitness\bin\Debug\Bunifu.Core.dll
+C:\Users\root\source\repos\SmartFitness\SmartFitness\obj\Debug\SmartFitness.csproj.CopyComplete
+C:\ProjektPI\SmartFitness\SmartFitness\bin\Debug\SmartFitness.exe.config
+C:\ProjektPI\SmartFitness\SmartFitness\bin\Debug\SmartFitness.exe
+C:\ProjektPI\SmartFitness\SmartFitness\bin\Debug\SmartFitness.pdb
+C:\ProjektPI\SmartFitness\SmartFitness\bin\Debug\Bunifu.Core.dll
+C:\ProjektPI\SmartFitness\SmartFitness\obj\Debug\SmartFitness.csprojResolveAssemblyReference.cache
+C:\ProjektPI\SmartFitness\SmartFitness\obj\Debug\SmartFitness.Form1.resources
+C:\ProjektPI\SmartFitness\SmartFitness\obj\Debug\SmartFitness.Properties.Resources.resources
+C:\ProjektPI\SmartFitness\SmartFitness\obj\Debug\SmartFitness.csproj.GenerateResource.cache
+C:\ProjektPI\SmartFitness\SmartFitness\obj\Debug\SmartFitness.csproj.CoreCompileInputs.cache
+C:\ProjektPI\SmartFitness\SmartFitness\obj\Debug\SmartFitness.csproj.CopyComplete
+C:\ProjektPI\SmartFitness\SmartFitness\obj\Debug\SmartFitness.exe
+C:\ProjektPI\SmartFitness\SmartFitness\obj\Debug\SmartFitness.pdb
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.IspisIPretraga.resources
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Login.resources
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Natjecanja.resources
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.PocetnaForma.resources
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisVjezbi.resources
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Statistika.resources
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.UnesiRezultatVjezbe.resources
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Unos.resources
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Properties.Resources.resources
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csproj.GenerateResource.cache
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.exe.config
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.exe
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.pdb
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.dll
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.xml
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csproj.CopyComplete
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.exe
+C:\Users\root\Desktop\backtoEntity\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.pdb
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.mdf
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness_log.ldf
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.dll
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.SqlServer.dll
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.xml
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.SqlServer.xml
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.IspisIPretraga.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Login.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Natjecanja.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.PocetnaForma.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisVjezbi.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Statistika.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Unos.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Properties.Resources.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csproj.GenerateResource.cache
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csproj.CoreCompileInputs.cache
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csproj.CopyComplete
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.exe
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.pdb
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.exe.config
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.exe
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.pdb
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajRezultatVjezbe.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.mdf
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness_log.ldf
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.exe.config
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.exe
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.pdb
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.dll
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.xml
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csprojResolveAssemblyReference.cache
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajRezultatVjezbe.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.IspisIPretraga.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Login.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Natjecanja.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.PocetnaForma.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisUcenika.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisVjezbi.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Statistika.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Unos.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Properties.Resources.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csproj.GenerateResource.Cache
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csproj.CoreCompileInputs.cache
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.exe
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.pdb
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzuriranjeUcenika.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisSportova.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajSport.resources
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.mdf
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness_log.ldf
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.exe.config
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.exe
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.pdb
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.dll
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.xml
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajRezultatVjezbe.resources
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajSport.resources
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzuriranjeUcenika.resources
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.IspisIPretraga.resources
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Login.resources
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Natjecanja.resources
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.PocetnaForma.resources
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisSportova.resources
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisUcenika.resources
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisVjezbi.resources
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Statistika.resources
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.UnesiRezultatVjezbe.resources
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Unos.resources
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Properties.Resources.resources
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csproj.GenerateResource.cache
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csproj.CopyComplete
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.exe
+C:\Users\root\Desktop\LUKSA\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.pdb
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.mdf
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness_log.ldf
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.exe.config
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.exe
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.pdb
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.dll
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.xml
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csprojResolveAssemblyReference.cache
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajRezultatVjezbe.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajSport.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzuriranjeUcenika.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.IspisIPretraga.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Login.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Natjecanja.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.PocetnaForma.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisSportova.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisUcenika.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisVjezbi.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Statistika.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Unos.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Properties.Resources.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csproj.GenerateResource.Cache
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.exe
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.pdb
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajVjezbu.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajSport.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajVjezbu.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzuriranjeUcenika.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisSportova.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisUcenika.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajUcenikaNaNatjecanju.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.DodajNatjecanje.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajNatjecanje.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajOcijenuUcenika.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajNatjecanje.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajOcijenuUcenika.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajUcenikaNaNatjecanju.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajVjezbu.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.DodajNatjecanje.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.DodajSportUceniku.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.DodajSportUceniku.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csprojAssemblyReference.cache
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajNatjecanje.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajOcijenuUcenika.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajUcenikaNaNatjecanju.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.DodajNatjecanje.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.DodajSportUceniku.resources
+C:\ProjektPI\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.DodajRezultatVjezbe.resources
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.DodajRezultatVjezbe.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.DodajRezultatVjezbe.resources
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.exe.manifest
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.application
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.exe.manifest
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.application
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.exe.manifest
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.application
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Unos sporta.dll
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Unos sporta.pdb
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Unos sporta.dll.config
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.exe.manifest
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.application
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csprojAssemblyReference.cache
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajNatjecanje.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajOcijenuUcenika.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajRezultatVjezbe.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajSport.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajUcenikaNaNatjecanju.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajVjezbu.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzuriranjeUcenika.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.DodajNatjecanje.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.DodajSportUceniku.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.IspisIPretraga.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Login.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Natjecanja.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.PocetnaForma.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisSportova.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisUcenika.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisVjezbi.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Statistika.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.DodajRezultatVjezbe.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Unos.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Properties.Resources.resources
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csproj.GenerateResource.cache
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.exe.manifest
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.exe
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.pdb
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csprojAssemblyReference.cache
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajNatjecanje.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajOcijenuUcenika.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajRezultatVjezbe.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajSport.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajUcenikaNaNatjecanju.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzurirajVjezbu.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.AzuriranjeUcenika.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.DodajNatjecanje.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.DodajSportUceniku.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.IspisIPretraga.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Login.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Natjecanja.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.PocetnaForma.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisSportova.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisUcenika.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.PopisVjezbi.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Statistika.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.DodajRezultatVjezbe.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Forms.Unos.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.Properties.Resources.resources
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csproj.GenerateResource.cache
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.exe.manifest
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.exe
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.pdb
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.mdf
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness_log.ldf
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.exe.config
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.exe.manifest
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.application
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.exe
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\SmartFitness.pdb
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.dll
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Unos sporta.dll
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Unos sporta.pdb
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\Unos sporta.dll.config
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.xml
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.application
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\SmartFitness\obj\Debug\SmartFitness.csproj.CopyComplete

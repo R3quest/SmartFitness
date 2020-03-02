@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="310b30fc84d9470b9415d4d9c9759f8c" Name="Diagram1" ZoomLevel="62">
+        <EntityTypeShape EntityType="SmartFitnessModel.Korisnik" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SmartFitnessModel.Natjecanje" Width="1.5" PointX="3" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SmartFitnessModel.Natjecanje_ucenik" Width="1.5" PointX="5.25" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SmartFitnessModel.Sport" Width="1.5" PointX="6" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SmartFitnessModel.Sport_ucenik" Width="1.5" PointX="8.25" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SmartFitnessModel.Statistika" Width="1.5" PointX="8.25" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SmartFitnessModel.sysdiagram" Width="1.5" PointX="7.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SmartFitnessModel.Ucenik" Width="1.5" PointX="3" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SmartFitnessModel.Vjezba" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SmartFitnessModel.Vjezba_ucenik" Width="1.5" PointX="5.25" PointY="1.75" IsExpanded="true" />
+        <AssociationConnector Association="SmartFitnessModel.FK_Ucenik_Korisnik" ManuallyRouted="false" />
+        <AssociationConnector Association="SmartFitnessModel.FK_Natjecanje_ucenik_Natjecanje" ManuallyRouted="false" />
+        <AssociationConnector Association="SmartFitnessModel.FK_Natjecanje_ucenik_Ucenik" ManuallyRouted="false" />
+        <AssociationConnector Association="SmartFitnessModel.FK_Sport_ucenik_Sport" ManuallyRouted="false" />
+        <AssociationConnector Association="SmartFitnessModel.FK_Statistika_Sport" ManuallyRouted="false" />
+        <AssociationConnector Association="SmartFitnessModel.FK_Sport_ucenik_Ucenik" ManuallyRouted="false" />
+        <AssociationConnector Association="SmartFitnessModel.FK_Vjezba_ucenik_Ucenik" ManuallyRouted="false" />
+        <AssociationConnector Association="SmartFitnessModel.FK_Vjezba_ucenik_Vjezba" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

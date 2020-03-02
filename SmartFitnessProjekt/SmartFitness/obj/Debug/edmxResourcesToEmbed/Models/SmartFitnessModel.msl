@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SmartFitnessModelStoreContainer" CdmEntityContainer="SmartFitnessEntities">
+    <EntitySetMapping Name="Korisniks">
+      <EntityTypeMapping TypeName="SmartFitnessModel.Korisnik">
+        <MappingFragment StoreEntitySet="Korisnik">
+          <ScalarProperty Name="id_korisnika" ColumnName="id_korisnika" />
+          <ScalarProperty Name="ime" ColumnName="ime" />
+          <ScalarProperty Name="prezime" ColumnName="prezime" />
+          <ScalarProperty Name="zvanje" ColumnName="zvanje" />
+          <ScalarProperty Name="godina_staza" ColumnName="godina_staza" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Natjecanjes">
+      <EntityTypeMapping TypeName="SmartFitnessModel.Natjecanje">
+        <MappingFragment StoreEntitySet="Natjecanje">
+          <ScalarProperty Name="id_natjecanja" ColumnName="id_natjecanja" />
+          <ScalarProperty Name="opis" ColumnName="opis" />
+          <ScalarProperty Name="razina_natjecanja" ColumnName="razina_natjecanja" />
+          <ScalarProperty Name="mjesto_odrzavanja" ColumnName="mjesto_odrzavanja" />
+          <ScalarProperty Name="datum_vrijeme" ColumnName="datum_vrijeme" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Natjecanje_ucenik">
+      <EntityTypeMapping TypeName="SmartFitnessModel.Natjecanje_ucenik">
+        <MappingFragment StoreEntitySet="Natjecanje_ucenik">
+          <ScalarProperty Name="id_ucenik_natjecanje" ColumnName="id_ucenik_natjecanje" />
+          <ScalarProperty Name="Natjecanjeid_natjecanja" ColumnName="Natjecanjeid_natjecanja" />
+          <ScalarProperty Name="Ucenikid_ucenika" ColumnName="Ucenikid_ucenika" />
+          <ScalarProperty Name="godina_sudjelovanja" ColumnName="godina_sudjelovanja" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sports">
+      <EntityTypeMapping TypeName="SmartFitnessModel.Sport">
+        <MappingFragment StoreEntitySet="Sport">
+          <ScalarProperty Name="id_sporta" ColumnName="id_sporta" />
+          <ScalarProperty Name="naziv" ColumnName="naziv" />
+          <ScalarProperty Name="disciplina" ColumnName="disciplina" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sport_ucenik">
+      <EntityTypeMapping TypeName="SmartFitnessModel.Sport_ucenik">
+        <MappingFragment StoreEntitySet="Sport_ucenik">
+          <ScalarProperty Name="id_ucenik_sport" ColumnName="id_ucenik_sport" />
+          <ScalarProperty Name="Sportid_sporta" ColumnName="Sportid_sporta" />
+          <ScalarProperty Name="Ucenikid_ucenika" ColumnName="Ucenikid_ucenika" />
+          <ScalarProperty Name="datum" ColumnName="datum" />
+          <ScalarProperty Name="ocijena" ColumnName="ocijena" />
+          <ScalarProperty Name="opis" ColumnName="opis" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Statistikas">
+      <EntityTypeMapping TypeName="SmartFitnessModel.Statistika">
+        <MappingFragment StoreEntitySet="Statistika">
+          <ScalarProperty Name="id_statistike" ColumnName="id_statistike" />
+          <ScalarProperty Name="naziv" ColumnName="naziv" />
+          <ScalarProperty Name="rezultat" ColumnName="rezultat" />
+          <ScalarProperty Name="id_sporta" ColumnName="id_sporta" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="SmartFitnessModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Uceniks">
+      <EntityTypeMapping TypeName="SmartFitnessModel.Ucenik">
+        <MappingFragment StoreEntitySet="Ucenik">
+          <ScalarProperty Name="id_ucenika" ColumnName="id_ucenika" />
+          <ScalarProperty Name="ime" ColumnName="ime" />
+          <ScalarProperty Name="prezime" ColumnName="prezime" />
+          <ScalarProperty Name="razred" ColumnName="razred" />
+          <ScalarProperty Name="id_korisnika" ColumnName="id_korisnika" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vjezbas">
+      <EntityTypeMapping TypeName="SmartFitnessModel.Vjezba">
+        <MappingFragment StoreEntitySet="Vjezba">
+          <ScalarProperty Name="id_vjezbe" ColumnName="id_vjezbe" />
+          <ScalarProperty Name="naziv" ColumnName="naziv" />
+          <ScalarProperty Name="opis" ColumnName="opis" />
+          <ScalarProperty Name="vrijeme_vjezbanja" ColumnName="vrijeme_vjezbanja" />
+          <ScalarProperty Name="ponavljanja" ColumnName="ponavljanja" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vjezba_ucenik">
+      <EntityTypeMapping TypeName="SmartFitnessModel.Vjezba_ucenik">
+        <MappingFragment StoreEntitySet="Vjezba_ucenik">
+          <ScalarProperty Name="ostvareno_ponavljanja" ColumnName="ostvareno_ponavljanja" />
+          <ScalarProperty Name="id_ucenik_vjezba" ColumnName="id_ucenik_vjezba" />
+          <ScalarProperty Name="Vjezbaid_vjezbe" ColumnName="Vjezbaid_vjezbe" />
+          <ScalarProperty Name="Ucenikid_ucenika" ColumnName="Ucenikid_ucenika" />
+          <ScalarProperty Name="datum" ColumnName="datum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

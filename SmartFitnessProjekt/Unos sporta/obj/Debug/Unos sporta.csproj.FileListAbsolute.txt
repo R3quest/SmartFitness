@@ -1,0 +1,13 @@
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\SmartFitness.mdf
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\SmartFitness_log.ldf
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\Unos sporta.dll.config
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\Unos sporta.dll
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\Unos sporta.pdb
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\EntityFramework.dll
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\EntityFramework.xml
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Debug\Unos sporta.csprojResolveAssemblyReference.cache
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Debug\Unos sporta.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Debug\Unos sporta.dll
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Debug\Unos sporta.pdb

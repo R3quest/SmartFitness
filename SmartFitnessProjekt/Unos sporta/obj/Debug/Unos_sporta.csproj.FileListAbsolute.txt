@@ -1,0 +1,51 @@
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\SmartFitness.mdf
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\SmartFitness_log.ldf
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\Unos sporta.dll.config
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\Unos sporta.dll
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\Unos sporta.pdb
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\EntityFramework.dll
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\EntityFramework.xml
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Debug\Unos_sporta.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Debug\Unos sporta.dll
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Debug\Unos sporta.pdb
+C:\Users\Matej\Documents\GitHub\GITHUB\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Debug\Unos_sporta.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\SmartFitness.mdf
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\SmartFitness_log.ldf
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\Unos sporta.dll.config
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\Unos sporta.dll
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\Unos sporta.pdb
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\EntityFramework.dll
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\EntityFramework.xml
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Debug\Unos_sporta.csprojAssemblyReference.cache
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Debug\Unos_sporta.csproj.CopyComplete
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Debug\Unos sporta.dll
+C:\Users\root\Desktop\SmartFitness\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Debug\Unos sporta.pdb
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\SmartFitness.mdf
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\SmartFitness_log.ldf
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\Unos sporta.dll.config
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\Unos sporta.dll
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\Unos sporta.pdb
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\EntityFramework.dll
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\EntityFramework.xml
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Debug\Unos_sporta.csproj.CopyComplete
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Debug\Unos sporta.dll
+C:\Users\root\Desktop\SmartFitness1\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Debug\Unos sporta.pdb
+C:\Users\root\Desktop\SmartFitness\SmartFitnessProjekt\Unos sporta\bin\Debug\SmartFitness.mdf
+C:\Users\root\Desktop\SmartFitness\SmartFitnessProjekt\Unos sporta\bin\Debug\SmartFitness_log.ldf
+C:\Users\root\Desktop\SmartFitness\SmartFitnessProjekt\Unos sporta\bin\Debug\Unos sporta.dll.config
+C:\Users\root\Desktop\SmartFitness\SmartFitnessProjekt\Unos sporta\bin\Debug\Unos sporta.dll
+C:\Users\root\Desktop\SmartFitness\SmartFitnessProjekt\Unos sporta\bin\Debug\Unos sporta.pdb
+C:\Users\root\Desktop\SmartFitness\SmartFitnessProjekt\Unos sporta\bin\Debug\EntityFramework.dll
+C:\Users\root\Desktop\SmartFitness\SmartFitnessProjekt\Unos sporta\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\root\Desktop\SmartFitness\SmartFitnessProjekt\Unos sporta\bin\Debug\EntityFramework.xml
+C:\Users\root\Desktop\SmartFitness\SmartFitnessProjekt\Unos sporta\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\root\Desktop\SmartFitness\SmartFitnessProjekt\Unos sporta\obj\Debug\Unos_sporta.csprojAssemblyReference.cache
+C:\Users\root\Desktop\SmartFitness\SmartFitnessProjekt\Unos sporta\obj\Debug\Unos_sporta.csproj.CopyComplete
+C:\Users\root\Desktop\SmartFitness\SmartFitnessProjekt\Unos sporta\obj\Debug\Unos sporta.dll
+C:\Users\root\Desktop\SmartFitness\SmartFitnessProjekt\Unos sporta\obj\Debug\Unos sporta.pdb

@@ -1,0 +1,13 @@
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Release\SmartFitness.mdf
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Release\SmartFitness_log.ldf
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Release\EntityFramework.dll
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Release\EntityFramework.xml
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Release\Unos sporta.csprojResolveAssemblyReference.cache
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Release\Unos sporta.csproj.CoreCompileInputs.cache
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Release\Unos sporta.dll
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\obj\Release\Unos sporta.pdb
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Release\Unos sporta.dll.config
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Release\Unos sporta.dll
+C:\Users\Leon\Desktop\zaGithub\SmartFitness - v1.1 - konekcija s bazom\Unos sporta\bin\Release\Unos sporta.pdb

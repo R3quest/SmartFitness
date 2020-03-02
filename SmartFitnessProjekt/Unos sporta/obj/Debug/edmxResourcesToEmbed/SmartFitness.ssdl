@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SmartFitnessModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="korisnik">
+    <Key>
+      <PropertyRef Name="id_korisnika" />
+    </Key>
+    <Property Name="id_korisnika" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ime" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="prezime" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="zvanje" Type="varchar" MaxLength="50" />
+    <Property Name="godina_staza" Type="int" Nullable="false" />
+    <Property Name="korisnicko_ime" Type="varchar" MaxLength="50" />
+    <Property Name="lozinka" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="natjecanje">
+    <Key>
+      <PropertyRef Name="id_natjecanja" />
+    </Key>
+    <Property Name="id_natjecanja" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="opis" Type="varchar" MaxLength="200" />
+    <Property Name="razina_natjecanja" Type="varchar" MaxLength="50" />
+    <Property Name="mjesto_odrzavanja" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="datum_vrijeme" Type="datetime" Nullable="false" />
+    <Property Name="id_sporta" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="natjecanje_ucenik">
+    <Key>
+      <PropertyRef Name="natjecanje_ucenik__id" />
+      <PropertyRef Name="natjecanje_id_natjecanja" />
+      <PropertyRef Name="ucenik_id_ucenika" />
+    </Key>
+    <Property Name="natjecanje_ucenik__id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="natjecanje_id_natjecanja" Type="int" Nullable="false" />
+    <Property Name="ucenik_id_ucenika" Type="int" Nullable="false" />
+    <Property Name="godina_sudjelovanja" Type="int" />
+  </EntityType>
+  <EntityType Name="sport">
+    <Key>
+      <PropertyRef Name="id_sporta" />
+    </Key>
+    <Property Name="id_sporta" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="naziv" Type="varchar" MaxLength="50" />
+    <Property Name="disciplina" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sport_ucenik">
+    <Key>
+      <PropertyRef Name="id_ucenik_sport" />
+      <PropertyRef Name="sport_id_sporta" />
+      <PropertyRef Name="ucenik_id_ucenika" />
+    </Key>
+    <Property Name="id_ucenik_sport" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="sport_id_sporta" Type="int" Nullable="false" />
+    <Property Name="ucenik_id_ucenika" Type="int" Nullable="false" />
+    <Property Name="datum" Type="date" Nullable="false" />
+    <Property Name="ocijena" Type="int" Nullable="false" />
+    <Property Name="opis" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="ucenik">
+    <Key>
+      <PropertyRef Name="id_ucenika" />
+    </Key>
+    <Property Name="id_ucenika" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ime" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="prezime" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="razred" Type="int" Nullable="false" />
+    <Property Name="id_korisnika" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="vjezba">
+    <Key>
+      <PropertyRef Name="id_vjezbe" />
+    </Key>
+    <Property Name="id_vjezbe" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="naziv" Type="varchar" MaxLength="50" />
+    <Property Name="opis" Type="varchar" MaxLength="50" />
+    <Property Name="vrijeme_vjezbanja" Type="int" />
+    <Property Name="ponavljanja" Type="int" />
+  </EntityType>
+  <EntityType Name="vjezba_ucenik">
+    <Key>
+      <PropertyRef Name="id_vjezba_ucenik" />
+      <PropertyRef Name="vjezba_id_vjezbe" />
+      <PropertyRef Name="ucenik_id_ucenika" />
+    </Key>
+    <Property Name="id_vjezba_ucenik" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="vjezba_id_vjezbe" Type="int" Nullable="false" />
+    <Property Name="ucenik_id_ucenika" Type="int" Nullable="false" />
+    <Property Name="datum" Type="date" Nullable="false" />
+    <Property Name="ostvareno_ponavljanja" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_natjecanje_sport">
+    <End Role="sport" Type="Self.sport" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="natjecanje" Type="Self.natjecanje" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="sport">
+        <PropertyRef Name="id_sporta" />
+      </Principal>
+      <Dependent Role="natjecanje">
+        <PropertyRef Name="id_sporta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_natjecanje_ucenik_natjecanje">
+    <End Role="natjecanje" Type="Self.natjecanje" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="natjecanje_ucenik" Type="Self.natjecanje_ucenik" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="natjecanje">
+        <PropertyRef Name="id_natjecanja" />
+      </Principal>
+      <Dependent Role="natjecanje_ucenik">
+        <PropertyRef Name="natjecanje_id_natjecanja" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_natjecanje_ucenik_ucenik">
+    <End Role="ucenik" Type="Self.ucenik" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="natjecanje_ucenik" Type="Self.natjecanje_ucenik" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ucenik">
+        <PropertyRef Name="id_ucenika" />
+      </Principal>
+      <Dependent Role="natjecanje_ucenik">
+        <PropertyRef Name="ucenik_id_ucenika" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_sport_ucenik_sport">
+    <End Role="sport" Type="Self.sport" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="sport_ucenik" Type="Self.sport_ucenik" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="sport">
+        <PropertyRef Name="id_sporta" />
+      </Principal>
+      <Dependent Role="sport_ucenik">
+        <PropertyRef Name="sport_id_sporta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_sport_ucenik_ucenik">
+    <End Role="ucenik" Type="Self.ucenik" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="sport_ucenik" Type="Self.sport_ucenik" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ucenik">
+        <PropertyRef Name="id_ucenika" />
+      </Principal>
+      <Dependent Role="sport_ucenik">
+        <PropertyRef Name="ucenik_id_ucenika" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ucenik_korisnik">
+    <End Role="korisnik" Type="Self.korisnik" Multiplicity="1" />
+    <End Role="ucenik" Type="Self.ucenik" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="korisnik">
+        <PropertyRef Name="id_korisnika" />
+      </Principal>
+      <Dependent Role="ucenik">
+        <PropertyRef Name="id_korisnika" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_vjezba_ucenik_ucenik">
+    <End Role="ucenik" Type="Self.ucenik" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="vjezba_ucenik" Type="Self.vjezba_ucenik" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ucenik">
+        <PropertyRef Name="id_ucenika" />
+      </Principal>
+      <Dependent Role="vjezba_ucenik">
+        <PropertyRef Name="ucenik_id_ucenika" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_vjezba_ucenik_vjezba">
+    <End Role="vjezba" Type="Self.vjezba" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="vjezba_ucenik" Type="Self.vjezba_ucenik" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="vjezba">
+        <PropertyRef Name="id_vjezbe" />
+      </Principal>
+      <Dependent Role="vjezba_ucenik">
+        <PropertyRef Name="vjezba_id_vjezbe" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SmartFitnessModelStoreContainer">
+    <EntitySet Name="korisnik" EntityType="Self.korisnik" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="natjecanje" EntityType="Self.natjecanje" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="natjecanje_ucenik" EntityType="Self.natjecanje_ucenik" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sport" EntityType="Self.sport" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sport_ucenik" EntityType="Self.sport_ucenik" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ucenik" EntityType="Self.ucenik" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="vjezba" EntityType="Self.vjezba" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="vjezba_ucenik" EntityType="Self.vjezba_ucenik" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_natjecanje_sport" Association="Self.FK_natjecanje_sport">
+      <End Role="sport" EntitySet="sport" />
+      <End Role="natjecanje" EntitySet="natjecanje" />
+    </AssociationSet>
+    <AssociationSet Name="FK_natjecanje_ucenik_natjecanje" Association="Self.FK_natjecanje_ucenik_natjecanje">
+      <End Role="natjecanje" EntitySet="natjecanje" />
+      <End Role="natjecanje_ucenik" EntitySet="natjecanje_ucenik" />
+    </AssociationSet>
+    <AssociationSet Name="FK_natjecanje_ucenik_ucenik" Association="Self.FK_natjecanje_ucenik_ucenik">
+      <End Role="ucenik" EntitySet="ucenik" />
+      <End Role="natjecanje_ucenik" EntitySet="natjecanje_ucenik" />
+    </AssociationSet>
+    <AssociationSet Name="FK_sport_ucenik_sport" Association="Self.FK_sport_ucenik_sport">
+      <End Role="sport" EntitySet="sport" />
+      <End Role="sport_ucenik" EntitySet="sport_ucenik" />
+    </AssociationSet>
+    <AssociationSet Name="FK_sport_ucenik_ucenik" Association="Self.FK_sport_ucenik_ucenik">
+      <End Role="ucenik" EntitySet="ucenik" />
+      <End Role="sport_ucenik" EntitySet="sport_ucenik" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ucenik_korisnik" Association="Self.FK_ucenik_korisnik">
+      <End Role="korisnik" EntitySet="korisnik" />
+      <End Role="ucenik" EntitySet="ucenik" />
+    </AssociationSet>
+    <AssociationSet Name="FK_vjezba_ucenik_ucenik" Association="Self.FK_vjezba_ucenik_ucenik">
+      <End Role="ucenik" EntitySet="ucenik" />
+      <End Role="vjezba_ucenik" EntitySet="vjezba_ucenik" />
+    </AssociationSet>
+    <AssociationSet Name="FK_vjezba_ucenik_vjezba" Association="Self.FK_vjezba_ucenik_vjezba">
+      <End Role="vjezba" EntitySet="vjezba" />
+      <End Role="vjezba_ucenik" EntitySet="vjezba_ucenik" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

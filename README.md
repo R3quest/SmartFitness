@@ -1,22 +1,22 @@
 # SmartFitness
 
-Korisničko ime:  korisnik
-Lozinka:         korisnik
+Korisničko ime:  korisnik <br/>
+Lozinka:         korisnik <br/>
 
-Na aplikaciji su radili:
-Luka Ljubičić
-Matej Kolarić
-Leon Lukša
+Na aplikaciji su radili:<br/>
+Luka Ljubičić<br/>
+Matej Kolarić<br/>
+Leon Lukša<br/>
 
 Izvorni projekt (private): https://github.com/orgs/foivz/teams/t18062
 
 =======================================================================
-Username:  korisnik
-Password:  korisnik
+<br/>Username:  korisnik<br/>
+Password:  korisnik<br/>
 
-Application developed by:
-Luka Ljubičić
-Matej Kolarić
-Leon Lukša
+Application developed by:<br/>
+Luka Ljubičić<br/>
+Matej Kolarić<br/>
+Leon Lukša<br/>
 
 Source project (private): https://github.com/orgs/foivz/teams/t18062
